@@ -1,0 +1,11 @@
+{
+  "name": "image-generator",
+  "description": "Generate images from text prompts using NanoBanana Pro via Chrome browser automation",
+  "version": "1.0.0",
+  "author": {
+    "name": "aliksir"
+  },
+  "homepage": "https://github.com/aliksir/claude-code-image-generator",
+  "repository": "https://github.com/aliksir/claude-code-image-generator",
+  "license": "MIT"
+}
