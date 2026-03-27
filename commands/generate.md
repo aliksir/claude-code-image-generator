@@ -11,7 +11,7 @@ $ARGUMENTS contains the text prompt. Optional parameters:
 
 ## Prerequisites
 
-- [browser-cli](https://github.com/user/browser-cli) installed and available in PATH
+- [browser-cli](https://github.com/anthropics/claude-code) installed and available in PATH
 - NanoBanana Pro account (https://www.nano-banana.com)
 - Logged in to NanoBanana Pro in the browser
 
